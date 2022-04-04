@@ -196,7 +196,7 @@ New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName -TemplateFil
 
 #### Upgrade to Azure Defender
 
-1. In the Micsrosoft Azure portal, browse to the **Security Center**.
+1. In the Micsrosoft Azure portal, browse to the **Microsoft Defender for Cloud**.
 
 1. Under **Enable Azure Defender on 1 subscriptions**, verify your subscription is selected and then, at the bottom of the page, select **Upgrade**.
 
